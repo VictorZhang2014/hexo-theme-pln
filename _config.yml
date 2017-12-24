@@ -2,22 +2,20 @@ menu:
   主页: /
   归档: /archives
 
-logo: XXX
+logo: Victor Zhang
 
 more:
-  友情链接: /links.html
-  Github: https://github.com/XXX/
-  微博: http://weibo.com/XXX
-  知乎: https://www.zhihu.com/people/XXX
-  rss: /rss2.xml
-  关于我: /
+  Github: https://github.com/VictorZhang2014
+  Facebook: https://www.facebook.com/victor.john.92167789
+  知乎: https://www.zhihu.com/people/victor-48-5/activities
+  CSDN: http://blog.csdn.net/u013538542
 
 about:
   title: Theme Pln
   link: https://github.com/gaoryrt/hexo-theme-pln
 
-disqus_shortname:
+disqus_shortname: 
 
 excerpt_num: 120
 
-footer_info: © XXX 20xx-2017
+footer_info: © Victor Zhang 2014-2018
